@@ -1,5 +1,4 @@
-MERKÜR Mobil v0.6.1 — SADE
-Evrak / İrsaliye No alanı boş bırakılabilir.
-Ekranda 'isteğe bağlı' ibaresi özellikle gösterilmez.
-Firma/Tedarikçi ve Açıklama alanları zorunludur.
-Diğer v0.6 sade yapı aynen korunmuştur.
+MERKÜR Mobil v0.6.2
+v0.6.1 sade sürüm aynen korunmuştur.
+Yüklenen Merkür Mobilya logosu mobil uygulama ikonu olarak eklendi.
+GitHub repo köküne index.html, sw.js, manifest.webmanifest, icon-192.png ve icon-512.png yükleyin.
