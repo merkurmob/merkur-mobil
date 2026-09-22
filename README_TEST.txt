@@ -1,0 +1,1 @@
+Merkür Mobil v1.1 test: kullanıcı adı isteğe bağlı hatırlanır, şifre saklanmaz ve otomatik giriş yapılmaz. Önceki merkur_mobile_session anahtarı açılışta silinir. PC paketine dokunulmadı. GitHub canlı sürümüne yüklemeden önce test edin.
